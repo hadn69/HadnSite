@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8">
   <title>Hayden Neumeyer</title>
-  <link rel="shortcut icon" href="/images/favicon.png">
+  <link rel="shortcut icon" href="/img/favicon.png">
   <script src="anal.js"></script>
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
   <link href='css/ionicons.css' rel='stylesheet' type='text/css' />
@@ -15,7 +15,7 @@
   <div class="container">
     <div class="box">
       <div class="inner">
-        <a href="hayden_resume.pdf" target="_blank"><span class="icon ion-social-twitter"></span>
+        <a href="hayden_resume.pdf" target="_blank"><span class="icon ion-ios-paper"></span>
         <h2>My Resume</h2></a>
 	      <p>In case you want to know more about me.</p>
       </div>

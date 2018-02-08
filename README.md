@@ -1,4 +1,4 @@
-tehnut.info
+Hadn69.com
 ===========
 
-My website found [here](http://tehnut.info)
+My website found [here](https://hadn69.com)
