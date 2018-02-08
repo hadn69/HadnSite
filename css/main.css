@@ -57,7 +57,7 @@ header {
 }
 
 header .overlay {
-    background: hsla(270, 50%, 40%, 0.8);
+    background: rgba(255, 64, 129, 0.8);
 }
 
 header nav h1 {
@@ -126,7 +126,7 @@ header .hero h2 {
 header .hero .btn.btn-full {
     display: inline-block;
     margin: 2em 10px 0 0;
-    color: hsla(280, 75%, 40%, 0.8);
+    color: rgba(255, 64, 129, 0.8);
     border: 2px solid hsl(210, 100%, 98%);
     padding: 15px 30px;
     border-radius: 2px;
@@ -158,7 +158,7 @@ header .hero .btn:hover {
 
 header .hero .meta {
     font-size: 11px;
-    background: hsla(280, 75%, 40%, 0.8);
+    background: rgba(255, 64, 129, 0.8);
 }
 
 .box {
@@ -182,7 +182,7 @@ header .hero .meta {
 }
 
 .box .inner .icon:before {
-    color: hsla(280, 75%, 40%, 0.8);
+    color: rgba(255, 64, 129, 0.8);
 }
 
 article {
