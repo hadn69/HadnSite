@@ -31,7 +31,7 @@
 
     <div class="box">
       <div class="inner">
-        <a href="http://steamcommunity.com/profiles/76561198041871599" target="_blank"><span class="icon ion-steam"></span>
+        <a href="http://steamcommunity.com/id/hadn69/" target="_blank"><span class="icon ion-steam"></span>
         <h2>Steam</h2></a>
         <p>I like playing games. Feel free to add me :D</p>
       </div>
