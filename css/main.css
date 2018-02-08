@@ -53,7 +53,8 @@ a:hover {
 header {
     color: white;
     background: url("../img/header-2.png") no-repeat;
-    background-size: cover;
+    background-size: auto;
+    background-position-y: bottom;
 }
 
 header .overlay {
