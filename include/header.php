@@ -6,7 +6,8 @@
           		<h2>Owner and System Administrator of BlackSun.Network</h2><br/>
                 	AKA: Hadn69<br/>
             		<a href="https://blacksun.network" class="btn btn-large btn-full"><span class="ion-settings">  </span>Black Sun Network</a>
-            		<a href="mailto:hayden@daemon.group" target="_blank" class="btn btn-large btn-full"><span class="ion-android-mail">  </span>Contact Me</a>
+            		<a href="mailto:moon@daemon.group" target="_blank" class="btn btn-large btn-full"><span class="ion-android-mail">  </span>Contact Me</a>
+					<a href="/pgp.php" target="_blank" class="btn btn-large btn-full"><span class="ion-android-mail">  </span>PGP Key</a>
         	</div>
     	</div>
 	</div>

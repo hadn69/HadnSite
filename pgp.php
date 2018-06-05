@@ -15,10 +15,12 @@
   <div class="container">
   <div class="box">
     </div>
-    <div class="box">
+    <div class="box" margin-left="-5%">
       <div class="inner">
         <pre>
                     -----BEGIN PGP PUBLIC KEY BLOCK-----
+        Email: moon@daemon.group
+
         xsFNBFsVB1YBEADDh1cmb4OTFaa3aXpAGhltYp6E2cKha96XzdxmtgxV88uz
         t4XyJimRuaaL6n02OWqGjhsmHfBF0sqnn20GR9dqYLDYh5MeyUMT+mIunoGC
         yN6xeaeM+b01e9Zf+0FlBllOnW166LHiOrJdJ9NP+Bwmm61Dopnen23PMeAv
