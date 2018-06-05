@@ -58,7 +58,7 @@ header {
 }
 
 header .overlay {
-    background: rgba(255, 64, 129, 0.8);
+    background: rgba(255, 64, 129, 0.5);
 }
 
 header nav h1 {

@@ -14,8 +14,6 @@
 
   <div class="container">
   <div class="box">
-      <div class="inner">
-      </div>
     </div>
     <div class="box">
       <div class="inner">
@@ -76,8 +74,6 @@
       </div>
     </div>
     <div class="box">
-      <div class="inner">
-      </div>
     </div>
   </div>
 
