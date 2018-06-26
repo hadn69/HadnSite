@@ -200,7 +200,7 @@ article .icon {
 
     font-size: 202px;
 }
-rainbow {
+.rainbow {
     background: url(../img/rainbow.png) !important;
     background-size: 5ch !important;
     -webkit-background-clip: text !important;
