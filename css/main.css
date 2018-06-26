@@ -200,3 +200,9 @@ article .icon {
 
     font-size: 202px;
 }
+rainbow {
+    background: url(../img/rainbow.png);
+    background-size: 5ch;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
