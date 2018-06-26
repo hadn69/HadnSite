@@ -201,8 +201,8 @@ article .icon {
     font-size: 202px;
 }
 rainbow {
-    background: url(../img/rainbow.png);
-    background-size: 5ch;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    background: url(../img/rainbow.png) !important;
+    background-size: 5ch !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
 }
