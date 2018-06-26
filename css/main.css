@@ -52,7 +52,7 @@ a:hover {
 
 header {
     color: white;
-    background: url("../img/header-2.png") no-repeat;
+    /*background: url("../img/header-2.png") no-repeat;*/
     background-size: auto;
     background-position-y: bottom;
 }
