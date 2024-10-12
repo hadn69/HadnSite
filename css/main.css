@@ -10,7 +10,7 @@
 
 body {
 	font-family: 'Open Sans', Helvetica, sans-serif;
-    background: rgba(204,204,204,1);
+    background: url("../img/SunLogo.jpg") repeat;
     margin: 0;
     padding: 0;
 }
@@ -35,13 +35,13 @@ h2 {
 }
 
 p {
-    color: #707070;
+    color: hsl(0,0%,70%);
     font-size: 1.1em;
     line-height: 1.7em;
 }
 
 a {
-	color: hsl(0,0%,20%);
+	color: hsl(0,0%,80%);
 	text-decoration: none;
 }
 
@@ -58,7 +58,7 @@ header {
 }
 
 header .overlay {
-    background: rgba(255, 64, 129, 0.5);
+    background: rgba(255, 64, 129, 0.6);
 }
 
 header nav h1 {
@@ -183,7 +183,7 @@ header .hero .meta {
 }
 
 .box .inner .icon:before {
-    color: rgba(255, 64, 129, 0.8);
+    color: rgba(255, 64, 129, 0.9);
 }
 
 article {
