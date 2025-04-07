@@ -10,7 +10,7 @@
 
 body {
 	font-family: 'Open Sans', Helvetica, sans-serif;
-    background: url("../img/SunLogo.jpg") repeat;
+    /*background: url("../img/SunLogo.jpg") repeat;*/
     margin: 0;
     padding: 0;
 }
@@ -184,6 +184,8 @@ header .hero .meta {
 
 .box .inner .icon:before {
     color: rgba(255, 64, 129, 0.9);
+    background: url(../img/explosion.gif);
+    background-size: 100%;
 }
 
 article {
@@ -197,7 +199,6 @@ article .icon {
     top: 0;
     margin-top: -20px;
     padding: 0 30px;
-
     font-size: 202px;
 }
 .rainbow {
