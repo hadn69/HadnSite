@@ -10,11 +10,21 @@
 
 body {
 	font-family: 'Open Sans', Helvetica, sans-serif;
-    /*background: url("../img/SunLogo.jpg") repeat;
-    background-color: #313131 ;*/
-    background-image: linear-gradient(#000000, #000000), linear-gradient(#090010, #090010), linear-gradient(#09001b, #09001b), linear-gradient(#12001b, #12001b), linear-gradient(#120024, #120024), linear-gradient(#16002b, #16002b);
+    background-image: linear-gradient(#5BCEFA, #5BCEFA), linear-gradient(#F5A9B8, #F5A9B8), linear-gradient(#ffffff, #ffffff), linear-gradient(#F5A9B8, #F5A9B8), linear-gradient(#5BCEFA, #5BCEFA);
     margin: 0;
     padding: 0;
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    text-align: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: 0% 0%, 0% 25%, 0% 50%, 0% 75%, 0% 100%;
+    background-size: 100vw 25%;
+    scrollbar-color: #aa5aaa88 #0000
 }
 
 .container {
