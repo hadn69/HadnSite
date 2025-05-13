@@ -53,14 +53,14 @@ a:hover {
 }
 
 header {
-    color: white;
-    /*background: url("../img/header-2.png") no-repeat;*/
+    /*color: white;
+    background: url("../img/header-2.png") no-repeat;
     background-size: auto;
-    background-position-y: bottom;
+    background-position-y: bottom;*/
 }
 
 header .overlay {
-    background: rgba(255, 64, 129, 0.6);
+    /*background: rgba(255, 64, 129, 0.6);*/
 }
 
 header nav h1 {
@@ -206,6 +206,7 @@ article .icon {
 .rainbow {
     background: url(../img/rainbow.png) !important;
     background-size: 5ch !important;
+    background-clip: text !important;
     -webkit-background-clip: text !important;
     -webkit-text-fill-color: transparent !important;
 }
