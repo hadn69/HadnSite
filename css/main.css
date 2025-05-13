@@ -10,8 +10,9 @@
 
 body {
 	font-family: 'Open Sans', Helvetica, sans-serif;
-    /*background: url("../img/SunLogo.jpg") repeat;*/
-    background-color: #313131 ;
+    /*background: url("../img/SunLogo.jpg") repeat;
+    background-color: #313131 ;*/
+    background-image: linear-gradient(#000000, #000000), linear-gradient(#090010, #090010), linear-gradient(#09001b, #09001b), linear-gradient(#12001b, #12001b), linear-gradient(#120024, #120024), linear-gradient(#16002b, #16002b);
     margin: 0;
     padding: 0;
 }
